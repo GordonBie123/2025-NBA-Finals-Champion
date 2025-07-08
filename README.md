@@ -3,3 +3,6 @@ This project implements an ensemble machine learning model to predict NBA champi
 
 # THIS IS A WIP
 The current model uses barely any data and am working on scraping more data and implementing player data from all historic NBA seasons
+
+# NEXT STEPS
+Currently working on making data available on cloud and not only locally, for now running the model will only work if the attached csv files are downlodaed locally
